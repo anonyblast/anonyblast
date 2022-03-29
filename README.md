@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: left;">
     <div style="display: flex; flex-direction: row; align-items:center; justify-content:center; padding: 10px">
         <img style="width:40px; padding-right: 10px;" src="https://quero.com/wp-content/uploads/2019/08/logo_ies2Sao-Judas.png"/>
-        <h6>Graduando em Ciêcia da Computação pela Universidade São Judas</h6>
+        <h6>Graduando em Ciência da Computação pela Universidade São Judas</h6>
     </div>
     <div  style="display: flex; flex-direction: row; align-items:center; justify-content:center; padding: 10px">
         <img style="width:40px; padding-right: 10px;" src="https://cadastro-positivo.vocequod.com.br/images/quod-logo.png"/>
