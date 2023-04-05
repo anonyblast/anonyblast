@@ -1,15 +1,7 @@
 # Olá, Mundo! Meu nome é Gustavo Iafelix!
 
-<div style="display: flex; align-items: left;">
-    <div style="display: flex; flex-direction: row; align-items:center; justify-content:center; padding: 10px">
-        <img style="width:40px; padding-right: 10px;" src="https://quero.com/wp-content/uploads/2019/08/logo_ies2Sao-Judas.png"/>
-        <h6>Graduando em Ciência da Computação pela Universidade São Judas</h6>
-    </div>
-    <div  style="display: flex; flex-direction: row; align-items:center; justify-content:center; padding: 10px">
-        <img style="width:40px; padding-right: 10px;" src="https://cadastro-positivo.vocequod.com.br/images/quod-logo.png"/>
-        <h6>Estagiário em High-Performance Computing Cluster na Quod</h6>
-    </div>
-</div>
+- Graduando em Ciência da Computação pela Universidade São Judas Tadeu
+- Desenvolvedor ECL na Quod
 
 ---
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonyblast&show_icons=true&theme=dracula&locale=pt-BR&line_height=40)
