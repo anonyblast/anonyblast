@@ -1,7 +1,6 @@
 # Olá, Mundo! Meu nome é Gustavo Iafelix!
 
 - Graduado em Ciência da Computação pela @USJT
-- Desenvolvedor ECL na @Quod
 
 ---
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonyblast&show_icons=true&theme=dracula&locale=pt-BR&line_height=40)
